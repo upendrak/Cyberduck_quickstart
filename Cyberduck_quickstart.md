@@ -36,7 +36,7 @@ Cyberduck is a free cross-platform, high-throughput and parallel data transfer o
 ## Get Started
 
 ### Step 1. Configure Cyberduck for use with the Data Store (one-time only)
-- Click to to download the [Connection Profile](./misc/iPlant_Data_Store.cyberduckprofile), which contains preconfigured settings for using Cyberduck with the CyVerse Data Store.
+- Click to to download the [Connection Profile](https://wiki.cyverse.org/wiki/download/attachments/18188197/iPlant%20Data%20Store.cyberduckprofile?version=1&modificationDate=1436557522000&api=v2), which contains preconfigured settings for using Cyberduck with the CyVerse Data Store.
 - Click to open the downloaded **iPlant Data Store.cyberduckprofile** file
 - Verify iPlant Data Store is displayed in the first field
 - In the Nickname field, enter **data.iplantcollaborative.org – iRODS**
